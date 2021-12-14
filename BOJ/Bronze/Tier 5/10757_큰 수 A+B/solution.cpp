@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 int main() {
-    int A, B;
+    long long A, B;
     scanf("%d %d", &A, &B);
     
     printf("%d", A+B);
